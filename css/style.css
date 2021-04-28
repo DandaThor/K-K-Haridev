@@ -69,7 +69,7 @@ ol {
 /*--/banner --*/
 
 .main-banner {
-    background: url(../images/banner1.jpg)no-repeat center;
+    background: url(../images/banner1.jpeg)no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -216,8 +216,7 @@ img.admin {
 
 .tab-main #tab1:checked ~ #content1,
 .tab-main #tab2:checked ~ #content2,
-.tab-main #tab3:checked ~ #content3,
-.tab-main #tab4:checked ~ #content4 {
+.tab-main #tab3:checked ~ #content3 {
     display: block;
 }
 
@@ -245,7 +244,7 @@ h4.sub-title.two {
 }
 
 .gal-img img {
-    border-radious: 0px;
+    border-radius: 0px;
 }
 
 
